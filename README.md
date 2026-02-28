@@ -15,12 +15,12 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/dnjstr)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/richteryap)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnjstr&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richteryap&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
 </div>
 
 ---
