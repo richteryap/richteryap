@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Richter Anthony P. Yap 👋
 
-<!--
-**richteryap/richteryap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate and DOST Scholar with a strong focus on Artificial Intelligence and full-stack software development. I enjoy building systems from the ground up and diving deep into research, particularly in computer vision and self-healing software systems.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+* **Building:** A real-time, self-service scoring platform to manage multi-event competitions for schools and local sports organizations. 
+* **Researching:** Finding new research gaps in AI and Computer Vision, and exploring the mechanics of self-healing software systems.
+* **Learning:** Always expanding my knowledge in full-stack architecture and advanced machine learning techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+* **Languages:** Python, [Add other languages e.g., JavaScript, Java, C++]
+* **AI/Machine Learning:** TensorFlow, scikit-learn, pandas
+* **Data:** Data preprocessing and annotation workflows
+* **Concepts:** Full-stack development, Computer Vision, AI Agents
+
+### 📫 Let's Connect
+* **LinkedIn:** [Link your LinkedIn here]
+* **Portfolio:** [Link your personal website if you have one]
+* **Email:** yap.richtera@gmailc.om
+
+---
+⭐️ *Feel free to explore my repositories below to see what I'm working on!*
