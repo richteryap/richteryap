@@ -9,10 +9,6 @@
 
 ---
 
-</div>
-
----
-
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dnjstr&theme=react-dark)](https://github.com/richteryap)
