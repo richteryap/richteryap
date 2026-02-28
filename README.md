@@ -1,4 +1,4 @@
-# Hi there, I'm Richter Anthony P. Yap 👋
+## About Me!
 
 I am a Computer Science undergraduate and DOST Scholar with a strong focus on Artificial Intelligence and full-stack software development. I enjoy building systems from the ground up and diving deep into research, particularly in computer vision and self-healing software systems.
 
@@ -14,9 +14,8 @@ I am a Computer Science undergraduate and DOST Scholar with a strong focus on Ar
 * **Concepts:** Full-stack development, Computer Vision, AI Agents
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Link your LinkedIn here]
-* **Portfolio:** [Link your personal website if you have one]
-* **Email:** yap.richtera@gmailc.om
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richteranthony.yap.39/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yap.richtera@gmail.com)
 
 ---
 ⭐️ *Feel free to explore my repositories below to see what I'm working on!*
