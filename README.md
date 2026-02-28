@@ -9,15 +9,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Currently Building:** A real-time, self-service scoring platform for multi-event competitions and local sports.
-- 🧠 **Currently Researching:** Novel gaps in AI, computer vision applications, and self-healing software systems.
-- ⚙️ **Specialties:** Data preprocessing, annotation workflows, and engineering intelligent agents.
-- ⚡ **Fun Fact:** I love building systems from the ground up, tackling both the front-end interfaces and the complex machine learning models behind them.
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
