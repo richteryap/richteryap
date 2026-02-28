@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Richter Anthony P. Yap 👋</h1>
-<h3 align="center">Computer Science Undergraduate | DOST Scholar | AI & Full-Stack Developer</h3>
+<h1 align="center">Hello, I'm Richter Anthony 👋</h1>
+<h3 align="center">BS Computer Science | DOST Scholar | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/richteranthony.yap.39/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-
----
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yap-richter-anthony-p-345aa23b3/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richteranthony.yap.39/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yap.richtera@gmail.com)
 
 ---
 ⭐️ *Feel free to explore my repositories below to see what I'm working on!*
