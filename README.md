@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,nodejs,js,ts,php,css,tailwind,react,django,supabase,firebase,mysql,postgres,aws,vite,vercel,docker,git,github" alt="Richter's Tech Stack" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,nodejs,js,ts,html,php,css,tailwind,vite,react,django,supabase,firebase,mysql,postgres,aws,vercel,docker,git,github" alt="Richter's Tech Stack" /> </a> </p>
 
 ---
 ⭐️ *Feel free to explore my repositories below to see what I'm working on!*
