@@ -23,13 +23,14 @@ class DeveloperProfile:
 dev = DeveloperProfile()
 ```
 
+  <img src="./metrics.plugin.languages.svg" alt="languages" />
+
   </sub>
     </td>
     <td width="40%" valign="center" align="center">
       <br><br>
       <p align="center"><b>My GitHub Activity</b></p>
       <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="fullyear" />
-      <img src="./metrics.plugin.languages.svg" alt="languages" />
     </td>
   </tr>
 </table>
