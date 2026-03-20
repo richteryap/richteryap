@@ -3,13 +3,31 @@
 </div>
 
 ---
+
 <table border="0" width="100%">
   <tr>
-  </td>
-  <td width="40%" valign="center" align="center">
-    <br><br>
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
-  </td>
+
+```python
+class DeveloperProfile:
+    def __init__(self):
+        self.name = "Richter Anthony Yap"
+        self.education = "University of Science and Technology of Southern Philippines"
+        self.location = "Tagoloan, Misamis Oriental"
+        self.interests = ["Web Development", "AI", "Computer Vision"]
+        self.working_on = ["Full-Stack Projects"]
+
+    def current_focus(self):
+        return "Expanding my programming knowledge and building practical projects"
+
+dev = DeveloperProfile()
+```
+
+  <sub>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <br><br>
+      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
+    </td>
   </tr>
 </table>
 
