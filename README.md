@@ -6,6 +6,9 @@
 
 <table border="0" width="100%">
   <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 const aboutMe = ...</h3>
+      <sub>
 
 ```python
 class DeveloperProfile:
@@ -22,10 +25,11 @@ class DeveloperProfile:
 dev = DeveloperProfile()
 ```
 
-  <sub>
+  </sub>
     </td>
     <td width="40%" valign="center" align="center">
       <br><br>
+      <p align="center"><b>My GitHub Activity</b></p>
       <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
     </td>
   </tr>
