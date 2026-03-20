@@ -1,15 +1,6 @@
-<h1 align="center">Hello, I'm Richter Anthony 👋</h1>
-<h3 align="center">BS Computer Science | DOST Scholar | Full-Stack Developer</h3>
-
-<p align="center">
-  <a href="https://www.facebook.com/richteranthony.yap.39/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:yap.richtera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
----
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=const+coder+%3D+%22Koby+Atilano%22%3B;console.log(%22Hello+World!%22)%3B" alt="Typing SVG" />
+</div>
 
 </td>
 <td width="40%" valign="center" align="center">
@@ -17,14 +8,6 @@
   <p align="center"><b>My GitHub Activity</b></p>
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </td>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richteryap&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
-</div>
-
----
 
 ### 🛠️ Languages & Tools
 
