@@ -3,12 +3,15 @@
 </div>
 
 ---
-
-</td>
-<td width="40%" valign="center" align="center">
-  <br><br>
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
-</td>
+<table border="0" width="100%">
+  <tr>
+  </td>
+  <td width="40%" valign="center" align="center">
+    <br><br>
+    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
+  </td>
+  </tr>
+</table>
 
 ### 🛠️ Languages & Tools
 
