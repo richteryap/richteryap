@@ -16,11 +16,11 @@ class DeveloperProfile:
         self.location = "Philippines"
         self.interests = ["Web Development", "AI", "Computer Vision"]
         self.working_on = ["Full-Stack and Ai/Computer Vision Projects"]
-        self.technologies = [
-          languages = ["Python", "C++", "JS"]
-          frontend = ["React", "Tailwind"]
-          backend = ["Node.js", "Django", "Firebase"]
-        ]
+        self.technologies = {
+            "languages": ["Python", "C++", "JS"],
+            "frontend": ["React", "Tailwind"],
+            "backend": ["Node.js", "Django", "Firebase"]
+        }
 
     def current_focus(self):
         return "Expanding my programming knowledge and building practical projects"
