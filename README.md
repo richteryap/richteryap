@@ -23,7 +23,7 @@ class DeveloperProfile:
         }
 
     def current_focus(self):
-        return "Expanding my programming knowledge and building practical projects"
+        return "Actively exploring new technologies and transforming complex ideas into functional, maintainable code."
 
 dev = DeveloperProfile()
 ```
