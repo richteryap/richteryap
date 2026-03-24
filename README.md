@@ -14,7 +14,7 @@ class DeveloperProfile:
         self.name = "Richter Anthony Yap"
         self.education = "University of Science and Technology of Southern Philippines"
         self.location = "Philippines"
-        self.interests = ["Web Development", "AI", "Computer Vision"]
+        self.interests = ["Full-Stack Development", "AI", "Computer Vision"]
         self.working_on = ["Full-Stack and Ai/Computer Vision Projects"]
         self.technologies = {
             "languages": ["Python", "C++", "JS"],
