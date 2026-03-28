@@ -17,9 +17,10 @@ class DeveloperProfile:
         self.interests = ["Full-Stack Development", "AI", "Computer Vision"]
         self.working_on = ["Full-Stack and Ai/Computer Vision Projects"]
         self.technologies = {
-            "languages": ["Python", "C++", "JS"],
-            "frontend": ["React", "Tailwind"],
-            "backend": ["Node.js", "Django", "Firebase"]
+            "languages": ["Python", "JS", "TS"],
+            "frontend": ["React", "Next.js", "CSS3", "Tailwind"],
+            "backend": ["Node.js", "Firebase", "Supabase"],
+            "tools: ["Git", "GitHub", "Vercel"]
         }
 
     def current_focus(self):
