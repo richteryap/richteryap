@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=500&color=B4EAF5&center=true&vCenter=true&width=600&lines=Hello!%F0%9F%91%8B;I%27m+Richter+Anthony+Yap&v=2" alt="Typing SVG Gold" />
 </div>
 
-<div align="center">
+<div align="left">
   <table border="0" width="100%">
     <tr>
       <td width="60%" valign="top">
